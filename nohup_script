@@ -1,0 +1,3 @@
+nohup python dnl.py > philly_dnl_output.log 2> philly_dnl_output.err &
+
+nohup python Philly_dode_AM.py > Philly_dode_AM_output.log 2> Philly_dode_AM_output.err &
